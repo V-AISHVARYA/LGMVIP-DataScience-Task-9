@@ -24,13 +24,13 @@ Image Processing: Employ image processing techniques to enhance the quality of i
 Clone this repository to your local machine.
 
 ## Dataset
-Explain the dataset you used for training your model. Include details such as the number of samples, classes, and any preprocessing applied.
+Explain the dataset you used for training model. Include details such as the number of samples, classes, and any preprocessing applied.
 
 ## Model Architecture
-Describe the architecture of the Convolutional Neural Network (CNN) you used for symbol recognition and equation solving. You can include code snippets of the model definition if necessary.
+Describe the architecture of the Convolutional Neural Network (CNN) you used for symbol recognition and equation solving.
 
 ## Training and Image Processing
-Explain the process of loading input images from a folder, assigning the data into different groups, saving the data, preprocessing, and training the CNN model. Also, detail the image processing techniques you used to enhance recognition accuracy.
+Load input images from a folder, assign the data into different groups, save the data, preprocessing, and training the CNN model. Also, detail the image processing techniques you used to enhance recognition accuracy.
 Upload an image containing a handwritten equation.
 The system will process the image, recognize the symbols, and provide the solved equation.
 
@@ -38,10 +38,10 @@ The system will process the image, recognize the symbols, and provide the solved
 Describe how you load images for testing from a separate folder and apply preprocessing steps.  
 
 ## Arithmetic Operations  
-Explain how you perform arithmetic operations on the recognized symbols to solve the equations. Provide code examples if necessary.  
+Perform arithmetic operations on the recognized symbols to solve the equations using python code.
 
 ## Results  
-Share some sample results and outputs from your system. Include images of handwritten equations, their recognized symbols, the intermediate steps, and the final solved equations.  
+Process the image and identify the variables,run the code to solve them for obtaining desired output.
 
 ## Contributing  
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
